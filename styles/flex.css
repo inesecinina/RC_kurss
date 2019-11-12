@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+}
+.child{
+    width: 100;
+    height: 100px;
+    background-color: goldenrod;
+}
+.child3{
+    background-color: purple;
+}
