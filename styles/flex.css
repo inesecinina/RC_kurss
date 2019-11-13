@@ -1,5 +1,6 @@
 .container{
     display: flex;
+    flex-wrap: wrap;
 }
 .child{
     width: 100;
@@ -8,4 +9,11 @@
 }
 .child3{
     background-color: purple;
+}
+main-cont{
+    width: 90%;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }

@@ -1,0 +1,57 @@
+.viss{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: gray;
+   
+}
+
+.galvene{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    height: 200px;
+    width: 100%;
+    background-color: teal;
+    justify-content: center;
+    align-content: center;
+    
+}
+.kājene{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 200px;
+    width: 100%;
+    background-color: teal;
+    justify-content: flex-start;
+    align-content: flex-end;
+    align-items: flex-end;
+
+}
+.viducis{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    height: 60%;
+    background-color: teal;
+    justify-content: space-evenly;
+    align-content: center;
+}
+ .labais{
+    
+    background-color: mediumspringgreen;
+    width: 25%;
+}
+
+.vidus{
+    
+    background-color: moccasin;
+    width: 50%;
+}
+
+.kreisais{
+   
+    background-color: mediumspringgreen;
+    width: 25%; 
+}
